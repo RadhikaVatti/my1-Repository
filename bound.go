@@ -170,4 +170,5 @@ func main() {
 	// Print the counts
 	fmt.Printf("Number of inbound records: %d\n", inboundCount)
 	fmt.Printf("Number of outbound records: %d\n", outboundCount)
+	fmt.Println("inbound and outbound")
 }
